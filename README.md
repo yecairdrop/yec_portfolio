@@ -2,7 +2,7 @@
 
 Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak geliştirdiğim, yeteneklerimi, projelerimi ve iletişim bilgilerimi sergilediğim kişisel portfolyo web sitem. 
 
-Apple tasarım dilinden ilham alınarak, modern web standartlarıyla (Vanilla JS, CSS3, HTML5) sıfırdan geliştirilmiştir.
+
 
 🚀 **Canlı Demo:**  [Siteyi Görüntüle](https://yec-portfolio.vercel.app)
 
